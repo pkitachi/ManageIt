@@ -1,0 +1,18 @@
+
+Ÿsquid:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„˜®’8øï¿«.
+Ÿsquid:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦›Í8ë¨Í÷ª.
+Gsquid:UselessImportCheck	"Remove this duplicated import.(°şÊóøÿÿÿÿ
+`squid:UselessImportCheck"7Remove this unused import 'android.widget.TableLayout'.(İ´‘úÿÿÿÿÿ
+Rsquid:S1481"4Remove this unused "tabSeminarHalls" local variable.(«¼Ö€8¾ÍÅ«.
+asquid:S1854"CRemove this useless assignment to local variable "tabSeminarHalls".(«¼Ö€8¾ÍÅ«.
+Jsquid:S1481",Remove this unused "tabLabs" local variable.(ú°ù8¾ÍÅ«.
+¤squid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½Ä³ïşÿÿÿÿ8ë¨Í÷ª.
+Lsquid:S1481"/Remove this unused "tabFaculty" local variable.(±É¯J8¾ÍÅ«.
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÍÃ‘ûÿÿÿÿ
+Ysquid:S1854";Remove this useless assignment to local variable "tabLabs".(ú°ù8¾ÍÅ«.
+Wsquid:UselessImportCheck
+".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+[squid:S1854">Remove this useless assignment to local variable "tabFaculty".(±É¯J8¾ÍÅ«.
+Vsquid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+ssquid:CallToDeprecatedMethod!"?Remove this use of "setOnPageChangeListener"; it is deprecated.(–ÃıÎûÿÿÿÿ8œ„Î«.
